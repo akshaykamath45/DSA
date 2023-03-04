@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-#include<bits/stdc++.h>
+// #include<bits/stdc++.h> for INT_MIN and INT_MAX
 
 
 void maxAndMinElement(int arr[][3],int rows,int columns){
